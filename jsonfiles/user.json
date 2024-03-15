@@ -1,0 +1,16 @@
+{
+    "firstName":"candice",
+    "middleName":null,
+    "taskNumber":6,
+    "petInfo":{
+        "dog":false,
+        "cat":false,
+        "rabbit":false
+    },
+    "friends":[
+        "John",
+        "Anna",
+        "Peter"
+    ],
+    "date":"14 Mar 2024 00:12:00 GMT"
+}
